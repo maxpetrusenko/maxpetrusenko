@@ -13,7 +13,7 @@
 ![FileMaker](https://img.shields.io/badge/-FileMaker-2C3E50?style=flat-square&logo=filemaker&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-> Vibe-coding the future of automation. AI-native workflow architect exploring how agents change everything.
+> Vibe-coding the future of automation → Building production agentic systems and AI-powered workflows.
 
 🌐 **[maxpetrusenko.com](https://maxpetrusenko.com)** – Tech consulting, somatic practices, and writing at the intersection of AI and consciousness.
 
