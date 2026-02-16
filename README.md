@@ -27,12 +27,12 @@
 - 🏭 **[factory-config](https://github.com/maxpetrusenko/factory-config)** – Global AI agent configuration and standards
 - 🧘 **[Mindfold](https://maxpetrusenko.com/mindfold)** – Somatic education & energy work events in Miami
 
-## What I'm Doing
+## What I Build
 
-- **AI automation consulting** – Claude Code setup, n8n workflows, ChatGPT integrations for teams
-- **Writing at the intersection** – AI agents, privacy (GrapheneOS), geopolitics, consciousness
-- **Building calm products** – Outcome-first UX that respects attention
-- **Somatic education** – Tantra, trauma work, and energy healing in Bali and Miami
+- AI-powered internal tools and automation systems
+- Full-stack SaaS MVPs to production releases
+- API integrations and workflow orchestration
+- Secure-by-default systems for regulated and high-trust environments
 
 ## Tech Stack
 
@@ -91,9 +91,11 @@
 
 > "Ship beats perfect" – I build tools to solve my own problems, then share them. Currently exploring how AI agents change software development, and how somatic practices change our relationship with technology.
 
-**Asking yourself: should I hire Max?**
-- Need Claude Code or AI automation setup → yes
-- Need n8n workflows or API integrations → yes
-- Need calm, outcome-first product strategy → yes
-- Need somatic education in Miami/Bali → yes
-- Want generic backend dev → plenty of cheaper options
+##  How I Can Help
+
+  - AI-first product builds (MVP to production)
+  - OpenClaw setup and operator workflows
+  - Agentic coding pipelines (Codex, Cursor, Claude Code, MiniMax M2.5)
+  - n8n automations and API integrations
+  - Full-stack TypeScript systems with realtime architecture
+  - Healthcare-aware integrations (HIPAA context, Twilio, Kno2)
