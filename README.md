@@ -21,9 +21,9 @@ I build deterministic wrappers around LLMs, hybrid RAG over structured data, and
 ## Current Projects
 
 - 🤖 **[OpenClaw experiment](https://medium.com/p/e1642b4c8c9c)** – I let an AI control my Mac for 3 weeks. Here's what I learned about trust.
-- 🧮 **[AI Math Tutor](https://github.com/maxpetrusenko/ai-math-tutor)** – Open source realtime voice tutor stack with pluggable STT, LLM, TTS, and avatar providers.
-- 🚢 **[Ship PM](https://github.com/maxpetrusenko/ship)** – Open source project management and issue tracking app. Fork used for a focused hardening pass across type safety, performance, accessibility, and tests.
-- 👻 **[Ghostfolio](https://github.com/maxpetrusenko/ghostfolio)** – Open source wealth management platform for portfolio tracking, self hosting, and finance workflow exploration.
+- 🧮 **[AI Math Tutor](https://github.com/maxpetrusenko/ai-math-tutor)** – Open source Nerdy style AI math tutor with realtime voice, avatars, TTS, STT, and pluggable LLMs.
+- 🚢 **[Ship](https://github.com/maxpetrusenko/ship)** – Treasury built project management and issue tracking app. I audited and hardened the fork across type safety, performance, accessibility, and tests.
+- 👻 **[Ghostfolio](https://github.com/maxpetrusenko/ghostfolio)** – Open source wealth management app for stocks, ETFs, and crypto; think self hosted Empower for portfolio tracking.
 - 🤝 **[Realtime Collab Board](https://github.com/maxpetrusenko/mvp-1-collab-board)** – Multiplayer whiteboard MVP with live sync, Firebase backend, and Playwright backed QA.
 - 🧹 **[Unfollow X](https://unfollow-x.com/)** – Chrome extension for authority curation on X/Twitter. Clean feeds, safe ops. (Product Hunt featured)
 - 🎵 **[SoundVista](https://soundvista.netlify.app/)** – Audio exploration MVP with clean UI and fast search
