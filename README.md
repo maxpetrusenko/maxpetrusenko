@@ -21,11 +21,16 @@ I build deterministic wrappers around LLMs, hybrid RAG over structured data, and
 ## Current Projects
 
 - 🤖 **[OpenClaw experiment](https://medium.com/p/e1642b4c8c9c)** – I let an AI control my Mac for 3 weeks. Here's what I learned about trust.
+- 🧮 **[AI Math Tutor](https://github.com/maxpetrusenko/ai-math-tutor)** – Open source realtime voice tutor stack with pluggable STT, LLM, TTS, and avatar providers.
 - 🧹 **[Unfollow X](https://unfollow-x.com/)** – Chrome extension for authority curation on X/Twitter. Clean feeds, safe ops. (Product Hunt featured)
 - 🎵 **[SoundVista](https://soundvista.netlify.app/)** – Audio exploration MVP with clean UI and fast search
 - 📝 **[maxpetrusenko.com](https://maxpetrusenko.com)** – Next.js site with Medium sync, GEO-optimized articles, somatic event pages
 - 🔧 **[filemaker-mcp-server](https://github.com/maxpetrusenko/filemaker-mcp-server)** – MCP bridge for FileMaker to AI agents
-- 🏭 **[factory-config](https://github.com/maxpetrusenko/factory-config)** – Global AI agent configuration and standards
+- 🧰 **[skills](https://github.com/maxpetrusenko/skills)** – Curated local skill registry for Codex, Claude Code, Cursor, and other coding agents.
+- 📏 **[llm-eval-notes](https://github.com/maxpetrusenko/llm-eval-notes)** – Public LLM evaluation artifacts for hallucination, brittleness, structured output, tool use, and safety.
+- 🧠 **[hybrid-rag-structured](https://github.com/maxpetrusenko/hybrid-rag-structured)** – Hybrid RAG over Postgres + pgvector with benchmarked retrieval quality.
+- 🛡️ **[deterministic-llm-service](https://github.com/maxpetrusenko/deterministic-llm-service)** – Production-grade LLM gateway with retries, circuit breakers, idempotency, and metrics.
+- 🏛️ **[LegacyLens](https://github.com/maxpetrusenko/LegacyLens)** – Citation-grounded RAG for legacy COBOL codebases with dependency mapping and fallback UX.
 - 🧘 **[Mindfold](https://maxpetrusenko.com/mindfold)** – Somatic education & energy work events in Miami
 
 ## What I Build
