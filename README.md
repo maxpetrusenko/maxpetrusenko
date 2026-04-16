@@ -20,6 +20,8 @@ I build deterministic wrappers around LLMs, hybrid RAG over structured data, and
 
 ## Current Projects
 
+- 🧬 **[Adaptive Agent](https://github.com/maxpetrusenko/AdaptiveAgent)** – Self-improving AI agent with eval → feedback → prompt update loop. LangGraph + Next.js + 5-system comparative benchmark. Inspired by Karpathy's autoresearch.
+- 🌐 **[LLM Gateway](https://llm.maxpetrusenko.com/docs)** – Self-hosted OpenAI-compatible API on Mac Mini M4. Serves Gemma 4 (32K), Qwen 3, embeddings, STT, and TTS behind one bearer token. Zero cloud costs.
 - 🤖 **[OpenClaw experiment](https://medium.com/p/e1642b4c8c9c)** – I let an AI control my Mac for 3 weeks. Here's what I learned about trust.
 - 🧮 **[AI Math Tutor](https://github.com/maxpetrusenko/ai-math-tutor)** – Open source Nerdy style AI math tutor with realtime voice, avatars, TTS, STT, and pluggable LLMs.
 - 🚢 **[Ship](https://github.com/maxpetrusenko/ship)** – Treasury built project management and issue tracking app. I audited and hardened the fork across type safety, performance, accessibility, and tests.
@@ -46,10 +48,10 @@ I build deterministic wrappers around LLMs, hybrid RAG over structured data, and
 ## Tech Stack
 
 - **Languages**: TypeScript, JavaScript, Python, SQL
-- **AI/Agents**: Claude Code, OpenAI API, n8n, MCP servers
+- **AI/Agents**: Claude Code, OpenAI API, LangGraph, Ollama, n8n, MCP servers
 - **Frontend**: Next.js, React, Vue.js, Tailwind
 - **Backend**: Node.js, Express, FileMaker (Claris)
-- **Infra**: Cloudflare Pages, Netlify, AWS
+- **Infra**: Cloudflare Pages/Tunnel, Ollama on Mac Mini, Netlify, AWS
 - **Tools**: Cursor, Claude Code, GitHub
 
 ## Latest Writing
