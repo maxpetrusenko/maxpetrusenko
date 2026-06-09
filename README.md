@@ -16,7 +16,7 @@
 AI systems engineer focused on evaluation, reliability, retrieval, and tool-use.
 I build deterministic wrappers around LLMs, hybrid RAG over structured data, and reproducible eval harnesses.
 
-🌐 **[maxpetrusenko.com](https://maxpetrusenko.com)** – Tech consulting, somatic practices, and writing at the intersection of AI and consciousness.
+🌐 **[maxpetrusenko.com](https://maxpetrusenko.com)** – AI systems, automation consulting, and practical engineering writing.
 
 ## Current Projects
 
@@ -30,14 +30,13 @@ I build deterministic wrappers around LLMs, hybrid RAG over structured data, and
 - 🤝 **[Realtime Collab Board](https://github.com/maxpetrusenko/mvp-1-collab-board)** – Multiplayer whiteboard MVP with live sync, Firebase backend, and Playwright backed QA.
 - 🧹 **[Unfollow X](https://unfollow-x.com/)** – Chrome extension for authority curation on X/Twitter. Clean feeds, safe ops. (Product Hunt featured)
 - 🎵 **[SoundVista](https://soundvista.netlify.app/)** – Audio exploration MVP with clean UI and fast search
-- 📝 **[maxpetrusenko.com](https://maxpetrusenko.com)** – Next.js site with Medium sync, GEO-optimized articles, somatic event pages
+- 📝 **[maxpetrusenko.com](https://maxpetrusenko.com)** – Next.js site with Medium sync, GEO-optimized articles, and technical reference pages
 - 🔧 **[filemaker-mcp-server](https://github.com/maxpetrusenko/filemaker-mcp-server)** – MCP bridge for FileMaker to AI agents
 - 🧰 **[skills](https://github.com/maxpetrusenko/skills)** – Curated local skill registry for Codex, Claude Code, Cursor, and other coding agents.
 - 📏 **[llm-eval-notes](https://github.com/maxpetrusenko/llm-eval-notes)** – Public LLM evaluation artifacts for hallucination, brittleness, structured output, tool use, and safety.
 - 🧠 **[hybrid-rag-structured](https://github.com/maxpetrusenko/hybrid-rag-structured)** – Hybrid RAG over Postgres + pgvector with benchmarked retrieval quality.
 - 🛡️ **[deterministic-llm-service](https://github.com/maxpetrusenko/deterministic-llm-service)** – Production-grade LLM gateway with retries, circuit breakers, idempotency, and metrics.
 - 🏛️ **[LegacyLens](https://github.com/maxpetrusenko/LegacyLens)** – Citation-grounded RAG for legacy COBOL codebases with dependency mapping and fallback UX.
-- 🧘 **[Mindfold](https://maxpetrusenko.com/mindfold)** – Somatic education & energy work events in Miami
 
 ## What I Build
 
@@ -63,7 +62,7 @@ I build deterministic wrappers around LLMs, hybrid RAG over structured data, and
 - [The Illusion of Scale: Why Your LLM's Context Window Is Lying to You](https://medium.com/p/454f08c31260) – Context limits in practice
 - [The Smartphone That Makes Police Officers Sweat](https://medium.com/p/99c594d458b5) – GrapheneOS privacy (249K views)
 - [Unleash Your Inner Wizard: Claude Skills](https://medium.com/p/65b991356c25) – Claude Code guide (8.7K views)
-- [The God Button: Why 40 Scientists Just Begged Us to Stop Playing Creator](https://medium.com/p/805e9fd80a84) – AI ethics and consciousness
+- [The God Button: Why 40 Scientists Just Begged Us to Stop Playing Creator](https://medium.com/p/805e9fd80a84) – AI ethics and risk
 <!-- BLOG-POST-LIST:END -->
 
 ## Services
@@ -91,17 +90,15 @@ I build deterministic wrappers around LLMs, hybrid RAG over structured data, and
 - 42 Alumni (hands-on coding education)
 - Backend Engineer at ICANotes (clinical documentation platform)
 - Digital nomad: base in Miami FL, seasonal in Ubud Bali
-- Somatic practitioner: tantra, energy work, trauma-informed space holding
 - Cry when I see truly elegant code
 - Believe AI agents are "slot machines for programmers"
 - One article hit 249K views on Medium (GrapheneOS privacy piece)
-- Book sessions at [atelier.maxpetrusenko.com](https://atelier.maxpetrusenko.com)
 
 </details>
 
 ## Philosophy
 
-> "Ship beats perfect" – I build tools to solve my own problems, then share them. Currently exploring how AI agents change software development, and how somatic practices change our relationship with technology.
+> "Ship beats perfect" – I build tools to solve my own problems, then share them. Currently exploring how AI agents change software development, operations, and practical engineering workflows.
 
 ##  How I Can Help
 
